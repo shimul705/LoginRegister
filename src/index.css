@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.shimul{
+  background-image: url('/1.jpg');
+  opacity: 80%;
+  background-color: black;
+  
+}
